@@ -1,0 +1,23 @@
+{
+  "name": "CryptoFeed",
+  "short_name": "FEED",
+  "lang": "en",
+  "description": "Track live crypto movements over time",
+  "background_color": "#0D0415",
+  "theme_color": "#F338C3",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "splash_pages": null,
+  "prefer_related_applications": false,
+  "iconPath": "logo.png",
+  "icons": [
+    {
+        "src": "logo.png",
+        "sizes": "72x72",
+        "type": "image/png"
+    }
+  ]
+}
